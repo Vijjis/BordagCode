@@ -1,0 +1,5 @@
+TextWindow.WriteLine("What is your age : ")
+age = TextWindow.Read()
+If (age > 100) then
+  TextWindow.WriteLine("You are lucky!")
+EndIf
